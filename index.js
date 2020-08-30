@@ -16,4 +16,4 @@ message.channel.send(message.content)
 message.delete()}
 });
 
-bot.login(process.env.token);
+client.login(process.env.token);
